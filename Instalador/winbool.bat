@@ -1,0 +1,1 @@
+start "Mi Aplicación" /MIN "%cd%\Java\bin\javaw.exe" -jar "Win Bool.jar"
